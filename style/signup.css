@@ -1,0 +1,89 @@
+.body
+{
+	
+	background-image: url("C:\Users\ADMIN_EAAD\Downloads\5087579.png");
+	width: 100px;
+	height: 100px;
+	font-family: sans-serif;
+	background-size: cover;
+	background-position: center;
+}
+.signup	
+{
+	width: 300px;
+	box-shadow: 0 0 9px 0 rgba(0,0,0.5);
+background-image: "C:\Users\ADMIN_EAAD\Downloads\5087579.png";
+	padding: 10px;
+	margin: 8% auto 0;
+	text-align: center;
+}
+.signup h1
+{
+	color: #1c8adb;
+	margin-bottom: 30px;
+
+}
+.input-box
+{
+	border-radius: 50px;
+	padding: 10px;
+	margin: 10px 0;
+	width: 100%;
+	border-radius: 1px solid #999;
+	outline: none;
+}
+.button
+{
+color: #fff;
+width: 100px;
+padding: 10px;
+border-radius: 20px;
+font-size: 15px;
+margin: 10px 0;
+border: none;
+outline: none;
+cursor: pointer;
+}
+.signup-btn
+{
+	background-color: 1c8abd;
+}
+.login-btn
+{
+	background-color: 1ad89c;
+}
+.a
+{
+	text-decoration: none;
+
+}
+.hr
+{
+	margin-top: 20px;
+	width: 80px;
+}
+.or
+{
+	background: #fff;
+	width: 30px;
+	margin: -19px auto 10px;
+}
+.img
+{
+	width: 550px;
+	margin-top: -50px;
+}
+.lOGIN
+{
+	width: 275px;
+	box-shadow: 0 0 9px 0 rgba(0,0,0.5);
+background-image: url("D:\Taye\updated BOA soft\boa wallpaper\LOCK SCREEN.png");
+	padding: 10px;
+	margin: 8% auto 0;
+	text-align: center;
+}
+.LOGIN h1
+{
+	color: #drt;
+	margin-bottom: 30px;
+}
